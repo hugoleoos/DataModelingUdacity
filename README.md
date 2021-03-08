@@ -78,24 +78,24 @@ The following tools were used in the construction of the project:
 ```bash
 %sql SELECT * FROM songplays LIMIT 5;
 ```
-<a href="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/songplays.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
-    <img alt="songplays" src="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/songplays.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
+<a href="https://github.com/hugoleoos/DataModelingUdacity/blob/main/songplays.jpg">
+    <img alt="songplays" src="https://github.com/hugoleoos/DataModelingUdacity/blob/main/songplays.jpg">
     </a> 
 
 ### users Table
 ```bash
-%sql SELECT * FROM songplays LIMIT 5;
+%sql SELECT * FROM users LIMIT 5;
 ```
-<a href="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/users.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
-    <img alt="users" src="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/users.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
+<a href="https://github.com/hugoleoos/DataModelingUdacity/blob/main/users.jpg">
+    <img alt="users" src="https://github.com/hugoleoos/DataModelingUdacity/blob/main/users.jpg">
     </a> 
 
 ### songs Table
 ```bash
 %sql SELECT * FROM songs LIMIT 5;
 ```
-<a href="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/songs.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
-    <img alt="songs" src="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/songs.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
+<a href="https://github.com/hugoleoos/DataModelingUdacity/blob/main/songs.jpg">
+    <img alt="songs" src="https://github.com/hugoleoos/DataModelingUdacity/blob/main/songs.jpg">
     </a> 
 ---
 
@@ -103,8 +103,8 @@ The following tools were used in the construction of the project:
 ```bash
 %sql SELECT * FROM artists LIMIT 5;;
 ```
-<a href="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/artists.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
-    <img alt="artists" src="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/artists.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
+<a href="https://github.com/hugoleoos/DataModelingUdacity/blob/main/artists.jpg">
+    <img alt="artists" src="https://github.com/hugoleoos/DataModelingUdacity/blob/main/artists.jpg">
     </a> 
 ---
 
@@ -112,8 +112,8 @@ The following tools were used in the construction of the project:
 ```bash
 %sql SELECT * FROM time LIMIT 5;
 ```
-<a href="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/time.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
-    <img alt="time" src="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/img/time.jpg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
+<a href="https://github.com/hugoleoos/DataModelingUdacity/blob/main/time.jpg">
+    <img alt="time" src="https://github.com/hugoleoos/DataModelingUdacity/blob/main/time.jpg">
     </a> 
 ---
 
