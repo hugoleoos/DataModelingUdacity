@@ -70,8 +70,8 @@ The following tools were used in the construction of the project:
  - year int 
  - weekday int <br>
 
- <a href="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/ER%20Diagram.jpeg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
-    <img alt="ERDiagram" src="https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/ER%20Diagram.jpeg?_xsrf=2%7C7daa2b11%7Cef03046626c85f193dc876808c394742%7C1604860773">
+ <a href="https://github.com/hugoleoos/DataModelingUdacity/blob/main/ER%20Diagram.jpeg">
+    <img alt="ERDiagram" src="https://github.com/hugoleoos/DataModelingUdacity/blob/main/ER%20Diagram.jpeg">
     </a> 
 
 ### songplays Table
